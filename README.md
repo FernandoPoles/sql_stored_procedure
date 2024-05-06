@@ -18,4 +18,4 @@ Abaixo o modelo lógico:
 
 ## Autores
 
-- Fernando Poles (https://github.com/seu-usuario) - Desenvolvedor
+- Fernando Poles (https://github.com/FernandoPoles) - Desenvolvedor
